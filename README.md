@@ -27,7 +27,7 @@ This project aims to:
 
 ## 🗂 Dataset
 
-* **Source**: `immo_data.csv`
+* **Source**: `immo_data.csv (https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany/data?select=immo_data.csv)` 
 * **Content**: Real estate listing data including apartment features and regional indicators
 * **Target Variable**: Rental price
 
