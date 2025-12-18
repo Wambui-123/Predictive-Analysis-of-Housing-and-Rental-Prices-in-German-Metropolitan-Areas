@@ -1,7 +1,5 @@
 # Predictive-Analysis-of-Housing-and-Rental-Prices-in-German-Metropolitan-Areas
 
-# Predictive Analysis of Apartment Rental Prices in Germany
-
 ## 📌 Project Overview
 
 This project applies **machine learning techniques** to predict apartment rental prices in Germany based on property characteristics and regional information. The goal is to understand which factors most influence rental prices and to build a regression model capable of estimating rent for new listings.
